@@ -1,5 +1,4 @@
 # HOTEL-APP
-
 # StayNest – Hotel Booking App
 ## Project Overview
 StayNest is a user-friendly hotel booking app that helps users find and book hotels easily. Users can search for destinations, explore hotel details, select rooms, choose AC or Non-AC options, specify their stay duration, and select food requirements. The app provides a clear booking summary and payment flow.
@@ -75,7 +74,7 @@ StayNest is a user-friendly hotel booking app that helps users find and book hot
 <img width="150" height="300" alt="Booking Confirmation (1)" src="https://github.com/user-attachments/assets/8e5012a7-ef0c-4667-9f56-162c1dafd8b0" />
 
 10.Thankyou Screen
-<img width="150" height="300" alt="Hotel Cards" src="https://github.com/user-attachments/assets/f6e34d4c-6447-4ea0-8ba3-20a37f8358b7" />
+<img width="150" height="300" alt="Thankyou screen" src="https://github.com/user-attachments/assets/33b2260f-bd86-4e8e-9290-923844d687af" />
 
 ## Project Structure
 <img width="450" height="500" alt="Hotel Booking" src="https://github.com/user-attachments/assets/85216569-ec5e-40b5-96c5-91f867642b6f" />
