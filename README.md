@@ -60,7 +60,7 @@ StayNest is a user-friendly hotel booking app that helps users find and book hot
 <img width="150" height="300" alt="Hotel Cards" src="https://github.com/user-attachments/assets/b46817bd-c193-485e-b474-621bb0376e2f" />
 
 5.Room selection
-<img width="440" height="300" alt="Hotel   Room selections" src="https://github.com/user-attachments/assets/65b1b397-be2f-4db1-9a4a-ccba72938d5f" />
+<img width="150" height="300" alt="Hotel   Room selections" src="https://github.com/user-attachments/assets/65b1b397-be2f-4db1-9a4a-ccba72938d5f" />
 
 6.Booking & Payment
 <img width="150" height="300" alt="Booking   Payment (1)" src="https://github.com/user-attachments/assets/5014b3e1-f1b0-45bb-9f9a-08e5f275e999" />
